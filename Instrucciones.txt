@@ -1,0 +1,34 @@
+Proyecto final. UNIDAD III
+
+Página Web HTML y CSS
+	Instrucciones generales:
+   •Utilizar lenguaje HTML y CSS
+   •Estructura HTML y estilo CSS (Se tomará muy en cuenta para la Calificación)
+   
+ELEMENTOS MINIMOS A INCLUIR:
+	•4 Pestañas
+	•Favicon
+	•Enlace a base de datos
+	•Tablas
+	•Imágenes
+	•Videos
+	•Documentos PDF
+
+ESTRUCTURA DE LA PÁGINA:
+   •Pestaña 1: 
+	1. Inicio
+	2. Turismo en Guatemala, Flora, Fauna
+	3. Mapa con lugares turísticos marcados
+
+   •Pestaña 2:
+	1. Información turística por región
+	2. Características
+	3. Nombre de lugares turísticos
+
+   •Pestaña 3: 
+	1. Descarga de mapas turísticos
+	2. Guías turísticas (PDF)
+
+   •Pestaña 4:
+	1. Contacto
+	2. Formulario de recolección de datos con enlace a bases de datos
