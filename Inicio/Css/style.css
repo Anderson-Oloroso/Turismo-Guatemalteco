@@ -27,10 +27,17 @@ nav {
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat; 
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
     gap: 10px;
+}
+nav h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
 }
 main{  
     margin-top: 10px;
@@ -62,6 +69,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 300px;
 
 }
 footer h1{
@@ -70,4 +78,14 @@ footer h1{
     padding: 0;
     text-align: center;
     color: white;
+}
+footer a{
+    text-decoration: wavy;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(2, 139, 139);
 }
